@@ -1,5 +1,6 @@
 <?php
 first change
+second changes added 
 return [
     'modules' => [
         'Magento_Store' => 1,
