@@ -1,4 +1,4 @@
 /app/etc/env.php
 /app/etc/localconfig.php
 /var/*
-
+/pub/*
